@@ -3,8 +3,8 @@ from splinter import Browser
 import time
 
 # Define the username and password
-username = 'keepitsalty'
-password = 'TNshizzam1234' + '\n'
+username = ''
+password = '' + '\n'
 
 # Choose the browser (default is Firefox)
 browser = Browser('chrome')
