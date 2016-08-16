@@ -5,8 +5,8 @@ import time
 
 BOT_NAME = "replieswinkytoOwnfir"
 friend = 'Ownfir'
-username = 'replieswinkytoOwnfir'
-password = 'redditbot1234'
+username = ''
+password = ''
 message = ';)'
 
 user_agent = ("Winky face to my friend Ownfir version 0.1 by /u/keepitsalty")
