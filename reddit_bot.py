@@ -9,7 +9,7 @@ username = ''
 password = ''
 message = ';)'
 
-user_agent = ("Winky face to my friend Ownfir version 0.1 by /u/keepitsalty")
+user_agent = ("Winky face to my friend Ownfir version 0.1")
 r = praw.Reddit(user_agent = user_agent)
 
 print (time.strftime("%m/%d/%Y"))
