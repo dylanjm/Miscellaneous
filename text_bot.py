@@ -30,7 +30,7 @@ time.sleep(38)
 
 browser.find_by_id('newText').first.click()
 
-target = '(208) 540-1972'
+target = '' #Your Friend's number
 message = "What's sup dude!"
 browser.find_by_css("input.newConversationTextField").fill(target)
 #browser.fill('recipients', target)
